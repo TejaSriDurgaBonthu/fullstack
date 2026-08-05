@@ -1,2 +1,1 @@
-const message = "Welcome to TypeScript Modules";
-export {};
+export const message = "Welcome to TypeScript Modules";
